@@ -16,3 +16,9 @@ git add .
 git commit -m "this is my third commit"
 
 '''
+
+'''
+
+git pull
+
+'''
